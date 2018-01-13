@@ -7,6 +7,7 @@ Platform: Linux VirtualBox
   2. Used python API for creating Spark Application
   3. Created RDD and SparkSQL queries by registering table to run SQL queries on CSV file
   4. Created Data frame to see insights from it.
+
 #SparkBasics/SparkProjectUsingJSON
 #In this folder, There are two JSON files which i have to use to run SparkSQL queries
   Steps:
