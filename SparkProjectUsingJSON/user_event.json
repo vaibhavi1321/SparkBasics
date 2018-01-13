@@ -1,0 +1,626 @@
+[
+  {
+    "_id": "5951a1db4b59ac8f145c5660",
+    "event": [
+      {
+        "eventId": "eebbea88-785d-4c8f-bf61-3cca237180ee",
+        "webService": [
+          {
+            "product": "foo",
+            "version": "1.0.0",
+            "name": "user"
+          }
+        ],
+        "time": 1485936000
+      }
+    ],
+    "personId": [
+      {
+        "userId": "328e7b59-9811-44be-a3c4-68fc17a690e5",
+        "age": 25,
+        "firstName": "Barrett",
+        "lastName": "Newton",
+        "gender": "male",
+        "zip": 29460,
+        "plan": [
+          {
+            "index": 0,
+            "planName": "Plan A",
+            "planType": "Silver",
+            "planId": "9D7HU8I89CT",
+            "startDate": 1479973385,
+            "endDate": 1485972063
+          },
+          {
+            "index": 1,
+            "planName": "Plan BB",
+            "planType": "Gold",
+            "planId": "7Y1CVIFIE2C",
+            "startDate": 1467045413,
+            "endDate": 1504546499
+          },
+          {
+            "index": 2,
+            "planName": "Plan AAA",
+            "planType": "Gold",
+            "planId": "I2Y2SGGSXJC",
+            "startDate": 1468449188,
+            "endDate": 1497382053
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "5951a1dbc571b4a9947545aa",
+    "event": [
+      {
+        "eventId": "5eaa3a84-cd02-4c5f-902a-0e8627c3800b",
+        "webService": [
+          {
+            "product": "foo",
+            "version": "1.0.0",
+            "name": "user"
+          }
+        ],
+        "time": 1487059200
+      }
+    ],
+    "personId": [
+      {
+        "userId": "249d71f0-7878-4501-a984-800f974eb5ff",
+        "age": 35,
+        "firstName": "Cooke",
+        "lastName": "Parker",
+        "gender": "male",
+        "zip": 18587,
+        "plan": [
+          {
+            "index": 0,
+            "planName": "Plan B",
+            "planType": "Bronze",
+            "planId": "J2RJ9P8RF77",
+            "startDate": 1473977747,
+            "endDate": 1509905693
+          },
+          {
+            "index": 1,
+            "planName": "Plan AA",
+            "planType": "Gold",
+            "planId": "YFOZNHDU5SH",
+            "startDate": 1470071244,
+            "endDate": 1501961420
+          },
+          {
+            "index": 2,
+            "planName": "Plan BBB",
+            "planType": "Bronze",
+            "planId": "5JRCZO103JN",
+            "startDate": 1471659628,
+            "endDate": 1538195432
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "5951a1db10ab51786e4a75d0",
+    "event": [
+      {
+        "eventId": "76703f41-17d6-4bf0-a5c1-b96b04b63633",
+        "webService": [
+          {
+            "product": "foo",
+            "version": "1.0.0",
+            "name": "user"
+          }
+        ],
+        "time": 1488009600
+      }
+    ],
+    "personId": [
+      {
+        "userId": "2cdb45ef-7d1e-443f-a419-cc914847b005",
+        "age": 53,
+        "firstName": "Cole",
+        "lastName": "Alvarado",
+        "gender": "male",
+        "zip": 18487,
+        "plan": [
+          {
+            "index": 0,
+            "planName": "Plan C",
+            "planType": "Bronze",
+            "planId": "93E2JM0XAZB",
+            "startDate": 1461916338,
+            "endDate": 1541116249
+          },
+          {
+            "index": 1,
+            "planName": "Plan BB",
+            "planType": "Silver",
+            "planId": "6PTMADUXYCN",
+            "startDate": 1463504200,
+            "endDate": 1505511460
+          },
+          {
+            "index": 2,
+            "planName": "Plan BBB",
+            "planType": "Gold",
+            "planId": "T57ISX8SOIB",
+            "startDate": 1481962923,
+            "endDate": 1518673873
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "5951a1db52a38619867e3e6b",
+    "event": [
+      {
+        "eventId": "64171b7a-3fa6-48e3-ad9a-cb47f7498e3b",
+        "webService": [
+          {
+            "product": "foo",
+            "version": "1.0.0",
+            "name": "user"
+          }
+        ],
+        "time": 1493794800
+      }
+    ],
+    "personId": [
+      {
+        "userId": "ab2bb051-2919-4efa-97ac-b25196ab2d4c",
+        "age": 49,
+        "firstName": "Cortez",
+        "lastName": "Flores",
+        "gender": "male",
+        "zip": 36055,
+        "plan": [
+          {
+            "index": 0,
+            "planName": "Plan C",
+            "planType": "Gold",
+            "planId": "1ZMC3KJY6FJ",
+            "startDate": 1480913103,
+            "endDate": 1488003986
+          },
+          {
+            "index": 1,
+            "planName": "Plan AA",
+            "planType": "Bronze",
+            "planId": "VRGFBL6YPWQ",
+            "startDate": 1452100611,
+            "endDate": 1515637553
+          },
+          {
+            "index": 2,
+            "planName": "Plan BBB",
+            "planType": "Silver",
+            "planId": "IX9UWQ67UG",
+            "startDate": 1469452350,
+            "endDate": 1526482122
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "5951a1dbb74b47addb975d50",
+    "event": [
+      {
+        "eventId": "5417cae2-bdc6-4d80-9214-09da02d56525",
+        "webService": [
+          {
+            "product": "foo",
+            "version": "1.0.0",
+            "name": "user"
+          }
+        ],
+        "time": 1489820400
+      }
+    ],
+    "personId": [
+      {
+        "userId": "58a23b2d-0153-4bcf-9a1d-e4ab66d6a456",
+        "age": 37,
+        "firstName": "Florence",
+        "lastName": "Pratt",
+        "gender": "female",
+        "zip": 40548,
+        "plan": [
+          {
+            "index": 0,
+            "planName": "Plan A",
+            "planType": "Bronze",
+            "planId": "34T7TTYYIGB",
+            "startDate": 1468594056,
+            "endDate": 1507571286
+          },
+          {
+            "index": 1,
+            "planName": "Plan BB",
+            "planType": "Bronze",
+            "planId": "O4E0AFIDNM",
+            "startDate": 1453971630,
+            "endDate": 1509698316
+          },
+          {
+            "index": 2,
+            "planName": "Plan CCC",
+            "planType": "Bronze",
+            "planId": "Q6F0WKTPWQ",
+            "startDate": 1464102857,
+            "endDate": 1533859074
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "5951a1dbbeeb69a0da09fb22",
+    "event": [
+      {
+        "eventId": "0395dfd0-c46d-4779-b45b-a45403ad9c63",
+        "webService": [
+          {
+            "product": "foo",
+            "version": "1.0.0",
+            "name": "user"
+          }
+        ],
+        "time": 1495177200
+      }
+    ],
+    "personId": [
+      {
+        "userId": "ecc4fbf4-39db-4d8a-bd42-5a53bfe12e12",
+        "age": 25,
+        "firstName": "Mason",
+        "lastName": "Wilder",
+        "gender": "male",
+        "zip": 83150,
+        "plan": [
+          {
+            "index": 0,
+            "planName": "Plan A",
+            "planType": "Gold",
+            "planId": "DTL1GMD4D5",
+            "startDate": 1467361828,
+            "endDate": 1489092905
+          },
+          {
+            "index": 1,
+            "planName": "Plan AA",
+            "planType": "Silver",
+            "planId": "OLZYLTHTWY",
+            "startDate": 1479212510,
+            "endDate": 1525830093
+          },
+          {
+            "index": 2,
+            "planName": "Plan BBB",
+            "planType": "Bronze",
+            "planId": "LXET8KKR7C",
+            "startDate": 1467063034,
+            "endDate": 1491607427
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "5951a1db41575077f69f04c5",
+    "event": [
+      {
+        "eventId": "a849367f-f19d-4b1e-864f-20f6e461e7cf",
+        "webService": [
+          {
+            "product": "foo",
+            "version": "1.0.0",
+            "name": "user"
+          }
+        ],
+        "time": 1485417600
+      }
+    ],
+    "personId": [
+      {
+        "userId": "ae968573-65c0-4e03-b0aa-c601451c60e5",
+        "age": 39,
+        "firstName": "Valencia",
+        "lastName": "Dotson",
+        "gender": "male",
+        "zip": 70746,
+        "plan": [
+          {
+            "index": 0,
+            "planName": "Plan C",
+            "planType": "Gold",
+            "planId": "OBGSY936P3",
+            "startDate": 1473235512,
+            "endDate": 1483231837
+          },
+          {
+            "index": 1,
+            "planName": "Plan CC",
+            "planType": "Silver",
+            "planId": "X5QKNIGJV8L",
+            "startDate": 1473715280,
+            "endDate": 1498332303
+          },
+          {
+            "index": 2,
+            "planName": "Plan AAA",
+            "planType": "Bronze",
+            "planId": "Z144S59TUPK",
+            "startDate": 1476198948,
+            "endDate": 1499508636
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "5951a1dbafbbf5bef55e8b72",
+    "event": [
+      {
+        "eventId": "b58b32a4-d140-4fbc-9133-a46df595b3df",
+        "webService": [
+          {
+            "product": "foo",
+            "version": "1.0.0",
+            "name": "user"
+          }
+        ],
+        "time": 1497510000
+      }
+    ],
+    "personId": [
+      {
+        "userId": "745b5424-48a6-4854-9584-94e95c4b2e87",
+        "age": 22,
+        "firstName": "Buckner",
+        "lastName": "Mosley",
+        "gender": "male",
+        "zip": 32457,
+        "plan": [
+          {
+            "index": 0,
+            "planName": "Plan B",
+            "planType": "Silver",
+            "planId": "MNS8PJ8JJ57",
+            "startDate": 1463262018,
+            "endDate": 1483356827
+          },
+          {
+            "index": 1,
+            "planName": "Plan BB",
+            "planType": "Bronze",
+            "planId": "IGW7QVI0JV",
+            "startDate": 1459732565,
+            "endDate": 1525323667
+          },
+          {
+            "index": 2,
+            "planName": "Plan CCC",
+            "planType": "Silver",
+            "planId": "NK9BKMRYIEM",
+            "startDate": 1466124737,
+            "endDate": 1494791541
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "5951a1dbce628af93a6fceb7",
+    "event": [
+      {
+        "eventId": "367868fc-50ab-4289-8b95-1bd7f36d3405",
+        "webService": [
+          {
+            "product": "foo",
+            "version": "1.0.0",
+            "name": "user"
+          }
+        ],
+        "time": 1497596400
+      }
+    ],
+    "personId": [
+      {
+        "userId": "41e246b7-5d8b-4b6e-b669-2204f70190e9",
+        "age": 47,
+        "firstName": "Richards",
+        "lastName": "Santos",
+        "gender": "male",
+        "zip": 22159,
+        "plan": [
+          {
+            "index": 0,
+            "planName": "Plan B",
+            "planType": "Bronze",
+            "planId": "28BVSMKGX98",
+            "startDate": 1462132059,
+            "endDate": 1504641512
+          },
+          {
+            "index": 1,
+            "planName": "Plan CC",
+            "planType": "Bronze",
+            "planId": "KC4ZHS81CFS",
+            "startDate": 1465353002,
+            "endDate": 1523209758
+          },
+          {
+            "index": 2,
+            "planName": "Plan CCC",
+            "planType": "Bronze",
+            "planId": "5FNDK0CKCTL",
+            "startDate": 1477547859,
+            "endDate": 1529962058
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "5951a1db7b63dbbf77a9e9ec",
+    "event": [
+      {
+        "eventId": "1e7203e3-0cf6-4760-9e30-8f84ad79da01",
+        "webService": [
+          {
+            "product": "foo",
+            "version": "1.0.0",
+            "name": "user"
+          }
+        ],
+        "time": 1484467200
+      }
+    ],
+    "personId": [
+      {
+        "userId": "b026617a-3189-43e6-ad88-693e5884b150",
+        "age": 56,
+        "firstName": "Stacey",
+        "lastName": "Franco",
+        "gender": "female",
+        "zip": 69639,
+        "plan": [
+          {
+            "index": 0,
+            "planName": "Plan B",
+            "planType": "Silver",
+            "planId": "VX5RL0P85YT",
+            "startDate": 1478544732,
+            "endDate": 1534802624
+          },
+          {
+            "index": 1,
+            "planName": "Plan CC",
+            "planType": "Gold",
+            "planId": "1Y3JPF6B8PL",
+            "startDate": 1462833395,
+            "endDate": 1495241016
+          },
+          {
+            "index": 2,
+            "planName": "Plan BBB",
+            "planType": "Silver",
+            "planId": "L1MLRDTW8MA",
+            "startDate": 1478426432,
+            "endDate": 1486655484
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "5951a1db769c4f682f465daf",
+    "event": [
+      {
+        "eventId": "0fd53084-80af-4032-a36c-3ab74e7885b9",
+        "webService": [
+          {
+            "product": "foo",
+            "version": "1.0.0",
+            "name": "user"
+          }
+        ],
+        "time": 1487923200
+      }
+    ],
+    "personId": [
+      {
+        "userId": "fc4b184f-ea0e-4bb3-974f-02a39e9deb24",
+        "age": 43,
+        "firstName": "Gladys",
+        "lastName": "Dyer",
+        "gender": "female",
+        "zip": 74317,
+        "plan": [
+          {
+            "index": 0,
+            "planName": "Plan C",
+            "planType": "Gold",
+            "planId": "KKGEPZRPRQR",
+            "startDate": 1477024287,
+            "endDate": 1515607874
+          },
+          {
+            "index": 1,
+            "planName": "Plan CC",
+            "planType": "Silver",
+            "planId": "VSIC8065OJS",
+            "startDate": 1482943988,
+            "endDate": 1539258378
+          },
+          {
+            "index": 2,
+            "planName": "Plan CCC",
+            "planType": "Silver",
+            "planId": "GTQB703OID4",
+            "startDate": 1465949098,
+            "endDate": 1506211003
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "5951a1db41451d0432a653a2",
+    "event": [
+      {
+        "eventId": "a68cb1be-7117-4e1a-9003-2354fdc059ce",
+        "webService": [
+          {
+            "product": "foo",
+            "version": "1.0.0",
+            "name": "user"
+          }
+        ],
+        "time": 1487923200
+      }
+    ],
+    "personId": [
+      {
+        "userId": "0074348a-429f-4202-b4e6-c738761a1d6e",
+        "age": 51,
+        "firstName": "Cohen",
+        "lastName": "Rodgers",
+        "gender": "male",
+        "zip": 98346,
+        "plan": [
+          {
+            "index": 0,
+            "planName": "Plan B",
+            "planType": "Silver",
+            "planId": "ZQPFEG58AL",
+            "startDate": 1471046686,
+            "endDate": 1535457107
+          },
+          {
+            "index": 1,
+            "planName": "Plan AA",
+            "planType": "Gold",
+            "planId": "MRDBK5H3O6I",
+            "startDate": 1464003706,
+            "endDate": 1496096437
+          },
+          {
+            "index": 2,
+            "planName": "Plan BBB",
+            "planType": "Silver",
+            "planId": "XJ3K9VF6IGO",
+            "startDate": 1452770740,
+            "endDate": 1539143661
+          }
+        ]
+      }
+    ]
+  }
+]

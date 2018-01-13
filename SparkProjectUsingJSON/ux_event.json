@@ -1,0 +1,870 @@
+{
+  "_id": "5951a8e30feb932e7021f381",
+  "event": [
+    {
+      "eventId": "aeed6c54-a3b8-425d-b4c8-9756d3bc2e69",
+      "webService": [
+        {
+          "product": "foo",
+          "version": "1.0.3",
+          "name": "ux_event"
+        }
+      ],
+      "time": 1494831600
+    }
+  ],
+  "UXEvent": [
+    {
+      "eventType": "ERROR",
+      "eventName": "Help"
+    }
+  ],
+  "HTTPHeader": [
+    {
+      "userAgent": "Mozilla/5.0 (Linux; <Android Version>; <Build Tag etc.>) AppleWebKit/<WebKit Rev>(KHTML, like Gecko) Chrome/<Chrome Rev> Safari/<WebKit Rev>",
+      "userId": "328e7b59-9811-44be-a3c4-68fc17a690e5",
+      "sessionId": "f703a4e1-c264-4827-a697-bbcebd3cf4d3"
+    }
+  ]
+},
+{
+  "_id": "5951a8e33a292ab04edcf867",
+  "event": [
+    {
+      "eventId": "048cf638-775f-4f3e-9bad-456a0dea857a",
+      "webService": [
+        {
+          "product": "foo",
+          "version": "1.0.3",
+          "name": "ux_event"
+        }
+      ],
+      "time": 1486886400
+    }
+  ],
+  "UXEvent": [
+    {
+      "eventType": "CLICK",
+      "eventName": "Help"
+    }
+  ],
+  "HTTPHeader": [
+    {
+      "userAgent": "Mozilla/5.0 (Linux; <Android Version>; <Build Tag etc.>) AppleWebKit/<WebKit Rev> (KHTML, like Gecko) Chrome/<Chrome Rev> Mobile Safari/<WebKit Rev>",
+      "userId": "328e7b59-9811-44be-a3c4-68fc17a690e5",
+      "sessionId": "d03ad05e-16b9-4c1d-aa31-bfc251a1292b"
+    }
+  ]
+},
+{
+  "_id": "5951a8e3b22339c17714709f",
+  "event": [
+    {
+      "eventId": "d19ce626-085b-4733-832e-02ae56abadea",
+      "webService": [
+        {
+          "product": "foo",
+          "version": "1.0.3",
+          "name": "ux_event"
+        }
+      ],
+      "time": 1489219200
+    }
+  ],
+  "UXEvent": [
+    {
+      "eventType": "SECTION_LOAD",
+      "eventName": "Dashboard"
+    }
+  ],
+  "HTTPHeader": [
+    {
+      "userAgent": "Mozilla/5.0 (Linux; <Android Version>; <Build Tag etc.>) AppleWebKit/<WebKit Rev>(KHTML, like Gecko) Chrome/<Chrome Rev> Safari/<WebKit Rev>",
+      "userId": "328e7b59-9811-44be-a3c4-68fc17a690e5",
+      "sessionId": "cd3edbcf-4b5c-479d-8d73-00d17ad87060"
+    }
+  ]
+},
+{
+  "_id": "5951a8e3c9b535e5e4652b81",
+  "event": [
+    {
+      "eventId": "a70cb8e7-8003-4cea-9375-91610ffcc6b8",
+      "webService": [
+        {
+          "product": "foo",
+          "version": "1.0.3",
+          "name": "ux_event"
+        }
+      ],
+      "time": 1484121600
+    }
+  ],
+  "UXEvent": [
+    {
+      "eventType": "SECTION_LOAD",
+      "eventName": "Help"
+    }
+  ],
+  "HTTPHeader": [
+    {
+      "userAgent": "Mozilla/5.0 (Linux; <Android Version>; <Build Tag etc.>) AppleWebKit/<WebKit Rev> (KHTML, like Gecko) Chrome/<Chrome Rev> Mobile Safari/<WebKit Rev>",
+      "userId": "328e7b59-9811-44be-a3c4-68fc17a690e5",
+      "sessionId": "7a9a1d2a-8c20-4007-83bd-5ae20ed519ce"
+    }
+  ]
+},
+{
+  "_id": "5951a8e3feaa7e7e1302ee6b",
+  "event": [
+    {
+      "eventId": "97006557-3dab-4dc0-916a-58ccfc514cdd",
+      "webService": [
+        {
+          "product": "foo",
+          "version": "1.0.3",
+          "name": "ux_event"
+        }
+      ],
+      "time": 1484726400
+    }
+  ],
+  "UXEvent": [
+    {
+      "eventType": "CLICK",
+      "eventName": "Products"
+    }
+  ],
+  "HTTPHeader": [
+    {
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/603.1.23 (KHTML, like Gecko) Version/10.0 Mobile/14E5239e Safari/602.1",
+      "userId": "328e7b59-9811-44be-a3c4-68fc17a690e5",
+      "sessionId": "1391a0d0-0e6f-475a-9c0f-662375f5946d"
+    }
+  ]
+},
+{
+  "_id": "5951a8e38a69a18fedf1e515",
+  "event": [
+    {
+      "eventId": "e4fd431b-858a-49b9-8ffe-f2086925a79d",
+      "webService": [
+        {
+          "product": "foo",
+          "version": "1.0.3",
+          "name": "ux_event"
+        }
+      ],
+      "time": 1496386800
+    }
+  ],
+  "UXEvent": [
+    {
+      "eventType": "SECTION_LOAD",
+      "eventName": "Details"
+    }
+  ],
+  "HTTPHeader": [
+    {
+      "userAgent": "Mozilla/5.0 (Linux; <Android Version>; <Build Tag etc.>) AppleWebKit/<WebKit Rev> (KHTML, like Gecko) Chrome/<Chrome Rev> Mobile Safari/<WebKit Rev>",
+      "userId": "328e7b59-9811-44be-a3c4-68fc17a690e5",
+      "sessionId": "0a1f3ae3-951d-4777-beb9-85b198a47ecb"
+    }
+  ]
+},
+{
+  "_id": "5951a8e3da295fbd7ffbb2b1",
+  "event": [
+    {
+      "eventId": "5c64737a-26a6-4bf5-b6e2-4c23c17d7f50",
+      "webService": [
+        {
+          "product": "foo",
+          "version": "1.0.3",
+          "name": "ux_event"
+        }
+      ],
+      "time": 1488182400
+    }
+  ],
+  "UXEvent": [
+    {
+      "eventType": "ERROR",
+      "eventName": "Details"
+    }
+  ],
+  "HTTPHeader": [
+    {
+      "userAgent": "Mozilla/5.0 (Linux; <Android Version>; <Build Tag etc.>) AppleWebKit/<WebKit Rev>(KHTML, like Gecko) Chrome/<Chrome Rev> Safari/<WebKit Rev>",
+      "userId": "328e7b59-9811-44be-a3c4-68fc17a690e5",
+      "sessionId": "2cad8a9a-af61-4b65-8f07-eac3adcad766"
+    }
+  ]
+},
+{
+  "_id": "5951a9165b3e0c0339648ee1",
+  "event": [
+    {
+      "eventId": "dc10362e-0a41-4493-85d5-5baa3a8ba521",
+      "webService": [
+        {
+          "product": "foo",
+          "version": "1.0.3",
+          "name": "ux_event"
+        }
+      ],
+      "time": 1497855600
+    }
+  ],
+  "UXEvent": [
+    {
+      "eventType": "ERROR",
+      "eventName": "Help"
+    }
+  ],
+  "HTTPHeader": [
+    {
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1",
+      "userId": "249d71f0-7878-4501-a984-800f974eb5ff",
+      "sessionId": "c7fe6e77-23cf-4fbc-b510-3600996d6aca"
+    }
+  ]
+},
+{
+  "_id": "5951a9169b8d9eb75ff7854c",
+  "event": [
+    {
+      "eventId": "9442e669-8ea5-4b52-a679-4d05b19d60a8",
+      "webService": [
+        {
+          "product": "foo",
+          "version": "1.0.3",
+          "name": "ux_event"
+        }
+      ],
+      "time": 1497855600
+    }
+  ],
+  "UXEvent": [
+    {
+      "eventType": "ERROR",
+      "eventName": "Dashboard"
+    }
+  ],
+  "HTTPHeader": [
+    {
+      "userAgent": "Mozilla/5.0 (Linux; <Android Version>; <Build Tag etc.>) AppleWebKit/<WebKit Rev> (KHTML, like Gecko) Chrome/<Chrome Rev> Mobile Safari/<WebKit Rev>",
+      "userId": "249d71f0-7878-4501-a984-800f974eb5ff",
+      "sessionId": "51fda168-9918-4769-8463-21372220a2df"
+    }
+  ]
+},
+{
+  "_id": "5951a91648f234a979d5da89",
+  "event": [
+    {
+      "eventId": "598d9d26-6bd6-4aa5-b3d7-2a43d6141f96",
+      "webService": [
+        {
+          "product": "foo",
+          "version": "1.0.3",
+          "name": "ux_event"
+        }
+      ],
+      "time": 1484812800
+    }
+  ],
+  "UXEvent": [
+    {
+      "eventType": "ERROR",
+      "eventName": "Details"
+    }
+  ],
+  "HTTPHeader": [
+    {
+      "userAgent": "Mozilla/5.0 (Linux; <Android Version>; <Build Tag etc.>) AppleWebKit/<WebKit Rev>(KHTML, like Gecko) Chrome/<Chrome Rev> Safari/<WebKit Rev>",
+      "userId": "249d71f0-7878-4501-a984-800f974eb5ff",
+      "sessionId": "cc6644ba-d927-40d1-bdf8-5c37a1e3d713"
+    }
+  ]
+},
+{
+  "_id": "5951a97e825fece9ed0abae4",
+  "event": [
+    {
+      "eventId": "97075ccb-a547-4d7a-acf7-bc87aa396bc3",
+      "webService": [
+        {
+          "product": "foo",
+          "version": "1.0.3",
+          "name": "ux_event"
+        }
+      ],
+      "time": 1491462000
+    }
+  ],
+  "UXEvent": [
+    {
+      "eventType": "SECTION_LOAD",
+      "eventName": "Products"
+    }
+  ],
+  "HTTPHeader": [
+    {
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1",
+      "userId": "2cdb45ef-7d1e-443f-a419-cc914847b005",
+      "sessionId": "7c3d5893-c834-448d-aa06-4dbe3558f95a"
+    }
+  ]
+},
+{
+  "_id": "5951a97e7d365540b28db4eb",
+  "event": [
+    {
+      "eventId": "698e819d-9851-4c34-90fb-14730cb9e18d",
+      "webService": [
+        {
+          "product": "foo",
+          "version": "1.0.3",
+          "name": "ux_event"
+        }
+      ],
+      "time": 1484121600
+    }
+  ],
+  "UXEvent": [
+    {
+      "eventType": "ERROR",
+      "eventName": "About Us"
+    }
+  ],
+  "HTTPHeader": [
+    {
+      "userAgent": "Mozilla/5.0 (Linux; <Android Version>; <Build Tag etc.>) AppleWebKit/<WebKit Rev>(KHTML, like Gecko) Chrome/<Chrome Rev> Safari/<WebKit Rev>",
+      "userId": "2cdb45ef-7d1e-443f-a419-cc914847b005",
+      "sessionId": "9efafbd5-55d2-4956-8937-9e89b2a02af7"
+    }
+  ]
+},
+{
+  "_id": "5951a9bbe185c05a3eaa361c",
+  "event": [
+    {
+      "eventId": "1b55f12c-4ed8-4575-bc69-f8b6c2d9334e",
+      "webService": [
+        {
+          "product": "foo",
+          "version": "1.0.3",
+          "name": "ux_event"
+        }
+      ],
+      "time": 1492585200
+    }
+  ],
+  "UXEvent": [
+    {
+      "eventType": "CLICK",
+      "eventName": "Details"
+    }
+  ],
+  "HTTPHeader": [
+    {
+      "userAgent": "Mozilla/5.0 (Linux; <Android Version>; <Build Tag etc.>) AppleWebKit/<WebKit Rev>(KHTML, like Gecko) Chrome/<Chrome Rev> Safari/<WebKit Rev>",
+      "userId": "ab2bb051-2919-4efa-97ac-b25196ab2d4c",
+      "sessionId": "17ef95dc-2734-48a7-be9b-e8108a7084a8"
+    }
+  ]
+},
+{
+  "_id": "5951a9bb8eef7983a18fdab9",
+  "event": [
+    {
+      "eventId": "7700ee3c-fac4-4847-a723-c85693308d11",
+      "webService": [
+        {
+          "product": "foo",
+          "version": "1.0.3",
+          "name": "ux_event"
+        }
+      ],
+      "time": 1485158400
+    }
+  ],
+  "UXEvent": [
+    {
+      "eventType": "CLICK",
+      "eventName": "Details"
+    }
+  ],
+  "HTTPHeader": [
+    {
+      "userAgent": "Mozilla/5.0 (Linux; <Android Version>; <Build Tag etc.>) AppleWebKit/<WebKit Rev>(KHTML, like Gecko) Chrome/<Chrome Rev> Safari/<WebKit Rev>",
+      "userId": "ab2bb051-2919-4efa-97ac-b25196ab2d4c",
+      "sessionId": "053ff604-5a5a-4d2a-a9d1-291b0a7bb89d"
+    }
+  ]
+},
+{
+  "_id": "5951a9bbd54f54523c5efd7d",
+  "event": [
+    {
+      "eventId": "0dc2de6a-c2d4-42ad-9330-d76f62c0d92b",
+      "webService": [
+        {
+          "product": "foo",
+          "version": "1.0.3",
+          "name": "ux_event"
+        }
+      ],
+      "time": 1489906800
+    }
+  ],
+  "UXEvent": [
+    {
+      "eventType": "CLICK",
+      "eventName": "Help"
+    }
+  ],
+  "HTTPHeader": [
+    {
+      "userAgent": "Mozilla/5.0 (Linux; <Android Version>; <Build Tag etc.>) AppleWebKit/<WebKit Rev>(KHTML, like Gecko) Chrome/<Chrome Rev> Safari/<WebKit Rev>",
+      "userId": "ab2bb051-2919-4efa-97ac-b25196ab2d4c",
+      "sessionId": "5bb2638d-4fd0-49bc-95c1-510a87eabe9f"
+    }
+  ]
+},
+{
+  "_id": "5951a9bb793e9b9975d13543",
+  "event": [
+    {
+      "eventId": "313fce9c-8504-44d0-9062-4fc3ef99ed55",
+      "webService": [
+        {
+          "product": "foo",
+          "version": "1.0.3",
+          "name": "ux_event"
+        }
+      ],
+      "time": 1493967600
+    }
+  ],
+  "UXEvent": [
+    {
+      "eventType": "ERROR",
+      "eventName": "Help"
+    }
+  ],
+  "HTTPHeader": [
+    {
+      "userAgent": "Mozilla/5.0 (Linux; <Android Version>; <Build Tag etc.>) AppleWebKit/<WebKit Rev>(KHTML, like Gecko) Chrome/<Chrome Rev> Safari/<WebKit Rev>",
+      "userId": "ab2bb051-2919-4efa-97ac-b25196ab2d4c",
+      "sessionId": "c7543175-c19b-4fbd-a92b-62713330cbd3"
+    }
+  ]
+},
+{
+  "_id": "5951a9e9e28880e0f964bdce",
+  "event": [
+    {
+      "eventId": "0f05d8b4-703b-4477-90e3-52f3c3755097",
+      "webService": [
+        {
+          "product": "foo",
+          "version": "1.0.3",
+          "name": "ux_event"
+        }
+      ],
+      "time": 1488096000
+    }
+  ],
+  "UXEvent": [
+    {
+      "eventType": "CLICK",
+      "eventName": "Details"
+    }
+  ],
+  "HTTPHeader": [
+    {
+      "userAgent": "Mozilla/5.0 (Linux; <Android Version>; <Build Tag etc.>) AppleWebKit/<WebKit Rev> (KHTML, like Gecko) Chrome/<Chrome Rev> Mobile Safari/<WebKit Rev>",
+      "userId": "fc4b184f-ea0e-4bb3-974f-02a39e9deb24",
+      "sessionId": "969fe028-4f85-4278-ba57-752ad1565bec"
+    }
+  ]
+},
+{
+  "_id": "5951a9e9ce95c13ce71573d2",
+  "event": [
+    {
+      "eventId": "9b2bc711-a493-4853-8f80-d9485168cf9f",
+      "webService": [
+        {
+          "product": "foo",
+          "version": "1.0.3",
+          "name": "ux_event"
+        }
+      ],
+      "time": 1485936000
+    }
+  ],
+  "UXEvent": [
+    {
+      "eventType": "SECTION_LOAD",
+      "eventName": "Products"
+    }
+  ],
+  "HTTPHeader": [
+    {
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/603.1.23 (KHTML, like Gecko) Version/10.0 Mobile/14E5239e Safari/602.1",
+      "userId": "fc4b184f-ea0e-4bb3-974f-02a39e9deb24",
+      "sessionId": "989b643f-ab85-4c0a-9651-7348635d1146"
+    }
+  ]
+},
+{
+  "_id": "5951a9e94345a51a55c72b08",
+  "event": [
+    {
+      "eventId": "8b417aae-cf02-41a9-9a22-eb2e63e491c9",
+      "webService": [
+        {
+          "product": "foo",
+          "version": "1.0.3",
+          "name": "ux_event"
+        }
+      ],
+      "time": 1497855600
+    }
+  ],
+  "UXEvent": [
+    {
+      "eventType": "ERROR",
+      "eventName": "Details"
+    }
+  ],
+  "HTTPHeader": [
+    {
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/603.1.23 (KHTML, like Gecko) Version/10.0 Mobile/14E5239e Safari/602.1",
+      "userId": "fc4b184f-ea0e-4bb3-974f-02a39e9deb24",
+      "sessionId": "3e2cb24d-6651-46a4-bdf1-ab04adcd7126"
+    }
+  ]
+},
+{
+  "_id": "5951a9e90e99ecff3702f92e",
+  "event": [
+    {
+      "eventId": "b144c699-face-4598-93c5-f1e1bdca44b0",
+      "webService": [
+        {
+          "product": "foo",
+          "version": "1.0.3",
+          "name": "ux_event"
+        }
+      ],
+      "time": 1485590400
+    }
+  ],
+  "UXEvent": [
+    {
+      "eventType": "CLICK",
+      "eventName": "Products"
+    }
+  ],
+  "HTTPHeader": [
+    {
+      "userAgent": "Mozilla/5.0 (Linux; <Android Version>; <Build Tag etc.>) AppleWebKit/<WebKit Rev>(KHTML, like Gecko) Chrome/<Chrome Rev> Safari/<WebKit Rev>",
+      "userId": "fc4b184f-ea0e-4bb3-974f-02a39e9deb24",
+      "sessionId": "6383755a-de4d-4075-9c9c-7a0888ec7d9b"
+    }
+  ]
+},
+{
+  "_id": "5951aa323c658ebe7b9f4654",
+  "event": [
+    {
+      "eventId": "a6cc65e0-0c16-4f92-aba7-46132a500812",
+      "webService": [
+        {
+          "product": "foo",
+          "version": "1.0.3",
+          "name": "ux_event"
+        }
+      ],
+      "time": 1491548400
+    }
+  ],
+  "UXEvent": [
+    {
+      "eventType": "CLICK",
+      "eventName": "Products"
+    }
+  ],
+  "HTTPHeader": [
+    {
+      "userAgent": "Mozilla/5.0 (Linux; <Android Version>; <Build Tag etc.>) AppleWebKit/<WebKit Rev> (KHTML, like Gecko) Chrome/<Chrome Rev> Mobile Safari/<WebKit Rev>",
+      "userId": "b026617a-3189-43e6-ad88-693e5884b150",
+      "sessionId": "17bd6255-7d89-4013-8d9f-6c8f5bb2bb55"
+    }
+  ]
+},
+{
+  "_id": "5951aa32686b511614058922",
+  "event": [
+    {
+      "eventId": "497606ee-62e9-40cd-8d2c-7e74cd060695",
+      "webService": [
+        {
+          "product": "foo",
+          "version": "1.0.3",
+          "name": "ux_event"
+        }
+      ],
+      "time": 1495436400
+    }
+  ],
+  "UXEvent": [
+    {
+      "eventType": "CLICK",
+      "eventName": "About Us"
+    }
+  ],
+  "HTTPHeader": [
+    {
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1",
+      "userId": "b026617a-3189-43e6-ad88-693e5884b150",
+      "sessionId": "a0c7a12a-5a09-4165-8614-5c9d29ec0f4d"
+    }
+  ]
+},
+{
+  "_id": "5951aa9d6e05712ee5239c6c",
+  "event": [
+    {
+      "eventId": "2eb62052-124a-47be-bd22-d41152918a1b",
+      "webService": [
+        {
+          "product": "foo",
+          "version": "1.0.3",
+          "name": "ux_event"
+        }
+      ],
+      "time": 1489046400
+    }
+  ],
+  "UXEvent": [
+    {
+      "eventType": "CLICK",
+      "eventName": "Details"
+    }
+  ],
+  "HTTPHeader": [
+    {
+      "userAgent": "Mozilla/5.0 (Linux; <Android Version>; <Build Tag etc.>) AppleWebKit/<WebKit Rev>(KHTML, like Gecko) Chrome/<Chrome Rev> Safari/<WebKit Rev>",
+      "userId": "0074348a-429f-4202-b4e6-c738761a1d6e",
+      "sessionId": "2246a1df-b33d-407b-8fe7-80140ca253b2"
+    }
+  ]
+},
+{
+  "_id": "5951aa9d553ea0c91d7d7045",
+  "event": [
+    {
+      "eventId": "fd892ca2-e684-4d38-93c6-a0ce40297fed",
+      "webService": [
+        {
+          "product": "foo",
+          "version": "1.0.3",
+          "name": "ux_event"
+        }
+      ],
+      "time": 1498028400
+    }
+  ],
+  "UXEvent": [
+    {
+      "eventType": "CLICK",
+      "eventName": "Help"
+    }
+  ],
+  "HTTPHeader": [
+    {
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1",
+      "userId": "0074348a-429f-4202-b4e6-c738761a1d6e",
+      "sessionId": "cbabbb4c-9b03-448d-93fc-1a33360da4cb"
+    }
+  ]
+},
+{
+  "_id": "5951aa9df1d4dec2558dc4a2",
+  "event": [
+    {
+      "eventId": "c0d4c99d-f578-44e7-82da-1338a9b13f3a",
+      "webService": [
+        {
+          "product": "foo",
+          "version": "1.0.3",
+          "name": "ux_event"
+        }
+      ],
+      "time": 1485417600
+    }
+  ],
+  "UXEvent": [
+    {
+      "eventType": "ERROR",
+      "eventName": "About Us"
+    }
+  ],
+  "HTTPHeader": [
+    {
+      "userAgent": "Mozilla/5.0 (Linux; <Android Version>; <Build Tag etc.>) AppleWebKit/<WebKit Rev> (KHTML, like Gecko) Chrome/<Chrome Rev> Mobile Safari/<WebKit Rev>",
+      "userId": "0074348a-429f-4202-b4e6-c738761a1d6e",
+      "sessionId": "b209200a-2098-474f-b830-ff2a4f529f76"
+    }
+  ]
+},
+{
+  "_id": "5951ab043be03f22909956c8",
+  "event": [
+    {
+      "eventId": "0dc0a990-38ca-451e-9c0e-aac574cd214d",
+      "webService": [
+        {
+          "product": "foo",
+          "version": "1.0.3",
+          "name": "ux_event"
+        }
+      ],
+      "time": 1496386800
+    }
+  ],
+  "UXEvent": [
+    {
+      "eventType": "SECTION_LOAD",
+      "eventName": "Products"
+    }
+  ],
+  "HTTPHeader": [
+    {
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/603.1.23 (KHTML, like Gecko) Version/10.0 Mobile/14E5239e Safari/602.1",
+      "userId": "ae968573-65c0-4e03-b0aa-c601451c60e5",
+      "sessionId": "70ddf9e0-c34a-45c8-ab16-9125dee8dfb9"
+    }
+  ]
+},
+{
+  "_id": "5951ab04e0843eaafcb2d716",
+  "event": [
+    {
+      "eventId": "d9cacd3f-e780-4e15-90b8-ccc5e3d82062",
+      "webService": [
+        {
+          "product": "foo",
+          "version": "1.0.3",
+          "name": "ux_event"
+        }
+      ],
+      "time": 1483603200
+    }
+  ],
+  "UXEvent": [
+    {
+      "eventType": "CLICK",
+      "eventName": "Products"
+    }
+  ],
+  "HTTPHeader": [
+    {
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/603.1.23 (KHTML, like Gecko) Version/10.0 Mobile/14E5239e Safari/602.1",
+      "userId": "ae968573-65c0-4e03-b0aa-c601451c60e5",
+      "sessionId": "dd2b697a-5ea5-46b6-905b-c52ae8b4339e"
+    }
+  ]
+},
+{
+  "_id": "5951ab048579a0dcd3dd5b45",
+  "event": [
+    {
+      "eventId": "5da527f0-f7f4-4196-885e-581b6628974d",
+      "webService": [
+        {
+          "product": "foo",
+          "version": "1.0.3",
+          "name": "ux_event"
+        }
+      ],
+      "time": 1493362800
+    }
+  ],
+  "UXEvent": [
+    {
+      "eventType": "ERROR",
+      "eventName": "About Us"
+    }
+  ],
+  "HTTPHeader": [
+    {
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/603.1.23 (KHTML, like Gecko) Version/10.0 Mobile/14E5239e Safari/602.1",
+      "userId": "ae968573-65c0-4e03-b0aa-c601451c60e5",
+      "sessionId": "1fb89a8d-5bbc-4166-98c9-71d6bcd62e1b"
+    }
+  ]
+},
+{
+  "_id": "5951ab0431334338859f2d1a",
+  "event": [
+    {
+      "eventId": "79307475-95c7-4089-ab02-f820cf5cecf9",
+      "webService": [
+        {
+          "product": "foo",
+          "version": "1.0.3",
+          "name": "ux_event"
+        }
+      ],
+      "time": 1484985600
+    }
+  ],
+  "UXEvent": [
+    {
+      "eventType": "CLICK",
+      "eventName": "About Us"
+    }
+  ],
+  "HTTPHeader": [
+    {
+      "userAgent": "Mozilla/5.0 (Linux; <Android Version>; <Build Tag etc.>) AppleWebKit/<WebKit Rev> (KHTML, like Gecko) Chrome/<Chrome Rev> Mobile Safari/<WebKit Rev>",
+      "userId": "ae968573-65c0-4e03-b0aa-c601451c60e5",
+      "sessionId": "f4295a82-9db3-4d0d-8c96-d97eb989b0eb"
+    }
+  ]
+},
+{
+  "_id": "5951ab04984b780114dbdeb0",
+  "event": [
+    {
+      "eventId": "fcb18023-399f-429b-aeb2-d55b7533a416",
+      "webService": [
+        {
+          "product": "foo",
+          "version": "1.0.3",
+          "name": "ux_event"
+        }
+      ],
+      "time": 1489132800
+    }
+  ],
+  "UXEvent": [
+    {
+      "eventType": "SECTION_LOAD",
+      "eventName": "Details"
+    }
+  ],
+  "HTTPHeader": [
+    {
+      "userAgent": "Mozilla/5.0 (Linux; <Android Version>; <Build Tag etc.>) AppleWebKit/<WebKit Rev>(KHTML, like Gecko) Chrome/<Chrome Rev> Safari/<WebKit Rev>",
+      "userId": "ae968573-65c0-4e03-b0aa-c601451c60e5",
+      "sessionId": "86d03352-93b9-44c3-bb59-bc8d82d90993"
+    }
+  ]
+}
