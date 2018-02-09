@@ -13,5 +13,11 @@ Platform: Linux VirtualBox
   Steps:
   1. See user_event.json and ux_event.json this both files i have to flattened it
   2. See code for FlatFlie.py, It will flatten my original JSON file to give new flattened JSON files
-  3. Using new Flattened file, I have created SparkNew.py file. I am running SparkSQL queries and created DataFrame by fetching key and        values of the Flattened JSON Data
+  3. Using new Flattened file, I have created SparkNew.py file. I am running SparkSQL queries and created DataFrame by    fetching key and        values of the Flattened JSON Data
   
+  #SparkBasics/Spark_Kafka_twitter_WordCount
+  Steps:
+  1. Get twitter access token and consumer key from twitter account.
+  2. Set zookeeper and kafka configurations so producer can receive data and send it to consumer.
+  3. Used Kafka_tweet.py for setting kafkaClient to send messages to consumer 
+  4. Used Spark_stream.py to get downstream of word count from kafka producer
